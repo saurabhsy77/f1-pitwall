@@ -1,0 +1,3 @@
+__pycache__/
+*.pyc
+cache/fastf1_http_cache.sqlite
